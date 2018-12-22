@@ -1,0 +1,22 @@
+img{width:300px;}
+img{width:200px;}
+h1{font-family:'Kavivanar', cursive;}
+ul{font-family:'Kavivanar', cursive;}
+h1{color:brown;
+  text-align:center;}
+body{background-color:maroon;}
+button {
+    background:grey;
+    color: yellow;
+    font-size: 20px;
+    padding: 20px;
+}
+
+button:hover {
+    background:blue;
+}
+img:hover {
+     transform: rotate(1080deg);
+     background: blue;
+     transition: all 2s;
+}
